@@ -475,6 +475,24 @@ export const BAndH: Store = {
       series: '4080-16g',
       url: 'https://www.bhphotovideo.com/c/product/1729444-REG/pny_vcg408016tfxxpb1_nvidia_geforce_rtx_4080.html',
     },
+    {
+      brand: 'msi',
+      model: 'msi mpg',
+      series: '321urx',
+      url: 'https://www.bhphotovideo.com/c/product/1808682-REG/msi_mpg_321urx_qd_oled_32_uhd_oled_16_9.html',
+    },
+    {
+      brand: 'asus',
+      model: 'rog swift',
+      series: 'pg32ucdm',
+      url: 'https://www.bhphotovideo.com/c/product/1819714-REG/asus_pg32ucdm_32_rog_swift_4k.html',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: 'fo32u2',
+      url: 'https://www.bhphotovideo.com/c/product/1823623-REG/gigabyte_aorus_fo32u2_p_sa_aorus_fo32u2_pro_32.html',
+    },
   ],
   name: 'bandh',
 };

@@ -1590,6 +1590,22 @@ export const Newegg: Store = {
       series: '4080-16g',
       url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814126601',
     },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16824475357',
+      model: 'msi mpg',
+      series: '321urx',
+      url: 'https://www.newegg.com/p/N82E16824475357',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16824281297',
+      model: 'rog swift',
+      series: 'pg32ucdm',
+      url: 'https://www.newegg.com/p/N82E16824281297',
+    },
   ],
   name: 'newegg',
   realTimeInventoryLookup: async (itemNumber: string) => {

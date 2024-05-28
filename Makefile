@@ -2,16 +2,16 @@
 
 .PHONY: build
 build:
-	docker-compose build streetmerchant
+	docker compose build streetmerchant
 
 .PHONY: run
 run:
-	docker-compose up
+	docker compose up
 
 .PHONY: run-detached
 run-detached:
-	docker-compose up -d
+	docker compose up -d
 
 .PHONY: stop
 stop:
-	docker-compose down
+	docker compose down

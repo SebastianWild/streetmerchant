@@ -955,6 +955,14 @@ export const Amazon: Store = {
       series: '4080-16g',
       url: 'https://www.amazon.com/dp/B0BG95T5WD',
     },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0CTSC3VS4&Quantity.1=1',
+      model: 'msi mpg',
+      series: '321urx',
+      url: 'https://www.amazon.com/dp/B0CTSC3VS4',
+    },
   ],
   name: 'amazon',
 };

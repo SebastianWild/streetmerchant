@@ -71,7 +71,10 @@ export type Series =
   | 'unvr'
   | 'unvr-pro'
   | 'xboxsx'
-  | 'xboxss';
+  | 'xboxss'
+  | '321urx'
+  | 'pg32ucdm'
+  | 'fo32u2';
 
 export type Model =
   | 'test:model'
@@ -176,6 +179,7 @@ export type Model =
   | 'merc'
   | 'merc core'
   | 'merc ultra'
+  | 'msi mpg'
   | 'network video recorder'
   | 'network video recorder pro'
   | 'nitro+'
@@ -202,6 +206,7 @@ export type Model =
   | 'qick ultra'
   | 'red devil'
   | 'red dragon'
+  | 'rog swift'
   | 'sg oc'
   | 'sg'
   | 'single fan'
